@@ -1,0 +1,3 @@
+C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Source\UE_FightyTanks\UE_FightyTanks.Build.cs
+C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Source\UE_FightyTanks.Target.cs
+C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Source\UE_FightyTanksEditor.Target.cs

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE_FightyTanks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE_FightyTanksEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\UE_FightyTanks.cpp.obj"
+"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\UE_FightyTanksGameModeBase.cpp.obj"
+"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\UE_FightyTanks.init.gen.cpp.obj"
+"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\UE_FightyTanksGameModeBase.gen.cpp.obj"
+"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\Default.rc2.res"
+/OUT:"C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\UE4Editor-UE_FightyTanks.lib"
+/INCLUDE:IMPLEMENT_MODULE_UE_FightyTanks

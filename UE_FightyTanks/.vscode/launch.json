@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "UE_FightyTanks (Debug)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanks Win64 Debug Build",
+			"program": "C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\Binaries\\Win64\\UE_FightyTanks-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanks (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanks Win64 DebugGame Build",
+			"program": "C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\Binaries\\Win64\\UE_FightyTanks-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanks (Development)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanks Win64 Development Build",
+			"program": "C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\Binaries\\Win64\\UE_FightyTanks.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanks (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanks Win64 Shipping Build",
+			"program": "C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\Binaries\\Win64\\UE_FightyTanks-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanks (Test)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanks Win64 Test Build",
+			"program": "C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\Binaries\\Win64\\UE_FightyTanks-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanksEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanksEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\UE_FightyTanks.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanksEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanksEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\UE_FightyTanks.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "UE_FightyTanksEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "UE_FightyTanksEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\UE_FightyTanks.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\NateH\\Documents\\Repos\\FightyTanks\\UE_FightyTanks\\UE_FightyTanks.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22"
+		}
+	]
+}

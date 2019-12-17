@@ -1,0 +1,7 @@
+C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Development\UE_FightyTanks\Definitions.UE_FightyTanks.h
+C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Source\UE_FightyTanks\UE_FightyTanksGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\NateH\Documents\Repos\FightyTanks\UE_FightyTanks\Intermediate\Build\Win64\UE4Editor\Inc\UE_FightyTanks\UE_FightyTanksGameModeBase.generated.h
