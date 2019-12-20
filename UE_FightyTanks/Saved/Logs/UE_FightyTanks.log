@@ -713,3 +713,739 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.19-23.24.08:192][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.12.19-23.24.09:233][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2019.12.19-23.24.10:503][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-23.26.08:246][267]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.19-23.26.08:578][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.19-23.26.17:889][820]LogSlate: Took 0.032732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.19-23.26.21:155][986]Cmd: TRANSACTION UNDO
+[2019.12.19-23.26.21:155][986]LogEditorTransaction: Undo Pilot Actor
+[2019.12.19-23.26.22:448][ 25]Cmd: SELECT NONE
+[2019.12.19-23.26.25:843][198]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.19-23.26.25:934][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.19-23.26.36:709][839]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.19-23.26.36:783][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.19-23.26.39:957][  0]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.19-23.26.42:408][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-23.26.51:302][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-23.27.02:052][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.19-23.27.05:697][422]MapCheck: New page: Map Check
+[2019.12.19-23.27.05:717][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.19-23.27.05:757][422]LightingResults: New page: Lighting Build - Dec 19, 2019, 1:27:05 PM
+[2019.12.19-23.27.06:167][422]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.19-23.27.06:411][422]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.19-23.27.06:594][422]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.19-23.27.09:449][422]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.19-23.27.09:449][422]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4360
+[2019.12.19-23.27.22:662][422]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.12.19-23.27.22:683][422]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.19-23.27.22:683][422]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.19-23.27.22:684][422]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.19-23.27.22:684][422]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.19-23.27.22:684][422]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.19-23.27.23:978][422]LogEditorBuildUtils: Build time 0:18
+[2019.12.19-23.27.24:026][422]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2019.12.19-23.27.24:056][422]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2019.12.19-23.27.24:263][424]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.12.19-23.27.24:277][424]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.12.19-23.27.24:358][425]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_84, compiling. Is special engine material.
+[2019.12.19-23.27.24:375][425]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_84, compiling. Is special engine material.
+[2019.12.19-23.27.37:263][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.19-23.31.58:931][533]Job is a success!
+[2019.12.19-23.31.59:651][534]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.174s
+[2019.12.19-23.31.59:651][534]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.12.19-23.31.59:651][534]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb
+[2019.12.19-23.31.59:652][534]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.19-23.31.59:652][534]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.12.19-23.31.59:652][534]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2019.12.19-23.31.59:652][534]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2019.12.19-23.32.11:404][534]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:404][534]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:404][534]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.12.19-23.32.11:404][534]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:405][534]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:406][534]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:407][534]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:408][534]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 512X512)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2019.12.19-23.32.11:409][534]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:410][534]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:410][534]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2019.12.19-23.32.11:410][534]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:410][534]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:410][534]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2019.12.19-23.32.11:410][534]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:411][534]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2019.12.19-23.32.11:412][534]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 512X512)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:413][534]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 512X512)
+[2019.12.19-23.32.11:414][534]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:414][534]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:414][534]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 512X512)
+[2019.12.19-23.32.11:414][534]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:414][534]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:414][534]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 512X512)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 512X512)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 512X512)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:415][534]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 512X512)
+[2019.12.19-23.32.11:416][534]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:416][534]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:416][534]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 512X512)
+[2019.12.19-23.32.11:416][534]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:416][534]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 512X512)
+[2019.12.19-23.32.11:416][534]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 512X512)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 512X512)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:417][534]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 512X512)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 512X512)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:418][534]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 512X512)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 512X512)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: SkyOcclusion0_37 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 512X512)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:419][534]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 512X512)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: SkyOcclusion0_39 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 512X512)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: SkyOcclusion0_40 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:420][534]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 512X512)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: SkyOcclusion0_41 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: SkyOcclusion0_42 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 512X512)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 512X512)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: SkyOcclusion0_43 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:421][534]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 512X512)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: SkyOcclusion0_44 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: SkyOcclusion0_45 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:422][534]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 512X512)
+[2019.12.19-23.32.11:423][534]LogTexture: Display: Building textures: SkyOcclusion0_46 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:423][534]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 512X512)
+[2019.12.19-23.32.11:423][534]LogTexture: Display: Building textures: SkyOcclusion0_47 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:423][534]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:423][534]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:423][534]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 512X512)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: SkyOcclusion0_48 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 512X512)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: SkyOcclusion0_49 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 512X512)
+[2019.12.19-23.32.11:424][534]LogTexture: Display: Building textures: SkyOcclusion0_50 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: SkyOcclusion0_51 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 512X512)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: SkyOcclusion0_52 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:425][534]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 512X512)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: SkyOcclusion0_53 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 512X512)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: SkyOcclusion0_54 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:426][534]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 512X512)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: SkyOcclusion0_55 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 512X512)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: SkyOcclusion0_56 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:427][534]LogTexture: Display: Building textures: SkyOcclusion0_57 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 512X512)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: SkyOcclusion0_58 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 512X512)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: SkyOcclusion0_59 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:428][534]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 512X512)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: SkyOcclusion0_61 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 512X512)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: SkyOcclusion0_62 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: SkyOcclusion0_60 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:429][534]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 512X512)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: SkyOcclusion0_63 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: SkyOcclusion0_64 (AutoDXT, 512X256)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 512X512)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 512X512)
+[2019.12.19-23.32.11:430][534]LogTexture: Display: Building textures: SkyOcclusion0_65 (AutoDXT, 256X128)
+[2019.12.19-23.32.11:431][534]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 256X256)
+[2019.12.19-23.32.11:431][534]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 256X256)
+[2019.12.19-23.32.11:431][534]LogTexture: Display: Building textures: SkyOcclusion0_66 (AutoDXT, 64X32)
+[2019.12.19-23.32.11:431][534]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 64X64)
+[2019.12.19-23.32.11:431][534]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 64X64)
+[2019.12.19-23.32.11:431][534]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 512X512)
+[2019.12.19-23.32.20:383][534]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2019.12.19-23.32.20:383][534]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2019.12.19-23.32.20:383][534]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2019.12.19-23.32.20:583][534]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X256)
+[2019.12.19-23.32.20:584][534]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2019.12.19-23.32.20:584][534]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2019.12.19-23.32.20:584][534]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2019.12.19-23.32.20:584][534]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2019.12.19-23.32.20:584][534]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2019.12.19-23.32.20:584][534]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2019.12.19-23.32.20:585][534]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2019.12.19-23.32.20:784][534]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2019.12.19-23.32.20:784][534]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2019.12.19-23.32.20:784][534]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2019.12.19-23.32.20:784][534]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2019.12.19-23.32.20:785][534]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2019.12.19-23.32.20:786][534]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X256)
+[2019.12.19-23.32.20:787][534]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X256)
+[2019.12.19-23.32.20:788][534]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X256)
+[2019.12.19-23.32.20:788][534]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X256)
+[2019.12.19-23.32.20:788][534]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X256)
+[2019.12.19-23.32.20:788][534]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X256)
+[2019.12.19-23.32.20:789][534]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X256)
+[2019.12.19-23.32.21:097][534]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X256)
+[2019.12.19-23.32.21:098][534]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 128X128)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X256)
+[2019.12.19-23.32.21:099][534]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 32X32)
+[2019.12.19-23.32.22:024][534]Lightmass on LAPTOP-7KROP7T5: 4:42 min total, 4.16 sec importing, 8.22 sec setup, 1:24 min photons, 3:04 min processing, 0 ms extra exporting [66/66 mappings]. Threads: 21:33 min total, 7:43 min processing.
+[2019.12.19-23.32.23:055][534]LogStaticLightingSystem: FightyTanks_BattleGround_BuiltData storing lightmap data for 66 meshes in 66 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.12.19-23.32.23:258][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.12.19-23.32.23:380][534]LogStaticLightingSystem: Illumination: 5:17 min (10.9 sec encoding lightmaps, 9.66 sec encoding shadowmaps)
+[2019.12.19-23.32.23:380][534]LogStaticLightingSystem: Lightmap texture memory:  42.8 MB (42.8 MB streaming, 0.0 MB non-streaming), 132 textures
+[2019.12.19-23.32.23:380][534]LogStaticLightingSystem: Shadowmap texture memory: 5.4 MB (5.4 MB streaming, 0.0 MB non-streaming), 66 textures
+[2019.12.19-23.32.24:305][534]DumpUnbuiltLightIteractions
+[2019.12.19-23.32.24:305][534]Lights with unbuilt interactions: 0
+[2019.12.19-23.32.24:306][534]
+[2019.12.19-23.32.24:306][534]Primitives with unbuilt interactions: 0
+[2019.12.19-23.32.24:845][535]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.19-23.32.24:845][535]MapCheck: New page: FightyTanks_BattleGround - Dec 19, 2019, 1:32:24 PM
+[2019.12.19-23.32.25:485][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 640.273ms to complete.
+[2019.12.19-23.33.04:065][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-23.33.12:349][135]LogSlate: Window 'Message Log' being destroyed
+[2019.12.19-23.33.12:358][135]LogSlate: Window 'Message Log' being destroyed
+[2019.12.19-23.33.55:818][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-23.33.55:908][708]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.19-23.34.16:584][420]LogAssetEditorManager: Opening Asset editor for Material /Game/Landscape.Landscape
+[2019.12.19-23.34.16:614][420]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.34.17:942][420]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.34.17:967][420]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.34.19:668][447]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.34.22:831][582]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.34.22:831][582]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.34.22:832][582]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.34.22:832][582]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.34.27:860][880]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.34.28:011][881]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.34.29:115][936]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.34.32:208][ 89]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.34.32:208][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.34.32:208][ 89]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.34.32:208][ 89]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.34.37:315][385]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.34.37:353][386]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.34.38:364][435]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.34.41:267][581]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.34.41:267][581]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.34.41:267][581]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.34.41:267][581]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.35.42:543][296]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.35.42:569][296]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.35.42:628][298]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.35.44:214][375]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.35.47:424][529]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.35.47:424][529]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.35.47:424][529]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.35.47:425][529]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.35.59:557][ 25]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.35.59:574][ 25]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.35.59:590][ 26]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.36.00:374][ 72]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.36.02:425][189]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.36.02:425][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.36.02:425][189]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.36.02:426][189]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.36.12:607][359]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.12:624][359]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.12:667][361]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.36.13:415][405]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.36.15:874][526]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.36.15:874][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.36.15:875][526]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.36.15:875][526]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.36.38:337][409]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.38:358][409]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.38:390][409]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.36.38:395][409]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.38:424][409]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.39:300][453]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.36.40:316][502]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.36.43:858][632]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.36.43:858][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.36.43:858][632]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.36.43:858][632]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.36.47:840][869]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.47:857][869]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.36.47:895][870]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.36.48:625][910]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.36.50:609][ 22]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.36.50:609][ 22]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.36.50:609][ 22]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.36.50:609][ 22]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.37.09:469][829]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.37.09:491][829]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.37.09:491][829]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.19-23.37.09:628][830]LogSlate: Took 0.025268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.19-23.37.11:110][898]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.37.13:405][995]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.37.13:406][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.37.13:406][995]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.37.13:406][995]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.37.21:564][478]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.37.21:583][478]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.37.21:590][478]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.19-23.37.23:316][552]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.37.25:592][658]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.37.25:593][658]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.37.25:593][658]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.37.25:593][658]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.37.38:424][338]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.37.38:443][338]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.37.38:443][338]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.19-23.37.39:247][380]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.37.39:277][380]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.12.19-23.37.39:325][380]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.19-23.37.39:821][408]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.37.40:785][463]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.37.42:570][563]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.37.42:570][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.37.42:570][563]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.37.42:570][563]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.00:663][340]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.00:691][340]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.00:691][340]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.02:452][419]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.04:843][525]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.04:844][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.04:844][525]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.04:844][525]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.08:171][718]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.08:197][718]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.08:202][718]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.09:806][787]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.12:382][872]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.12:382][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.12:382][872]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.12:382][872]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.17:496][988]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.17:517][988]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.17:522][988]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.18:703][ 50]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.20:384][141]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.20:385][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.20:385][141]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.20:385][141]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.22:956][295]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.22:978][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.22:995][295]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.24:151][359]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.25:883][451]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.25:883][451]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.25:883][451]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.25:884][451]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.29:219][651]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.29:240][651]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.29:244][651]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.30:444][713]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.32:211][807]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.32:212][807]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.32:212][807]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.32:212][807]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.37:916][149]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.37:934][149]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.37:940][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.39:121][213]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.40:149][267]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.40:187][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.40:509][282]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.41:544][339]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.43:167][426]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.43:202][426]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.43:221][426]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.43:332][431]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.44:553][496]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.46:535][532]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.46:536][532]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.46:536][532]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.46:536][532]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.52:590][895]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.52:611][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.52:616][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.53:832][958]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.55:593][ 53]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.55:593][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.55:594][ 53]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.55:594][ 53]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.38.56:030][ 79]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.38.56:057][ 79]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.38.56:058][ 79]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.12.19-23.38.56:088][ 79]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.19-23.38.57:261][145]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.19-23.38.59:722][228]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.19-23.38.59:722][228]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.19-23.38.59:723][228]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.19-23.38.59:723][228]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.19-23.39.09:860][262]LogMaterialEditor: Saving and Compiling material Landscape
+[2019.12.19-23.39.12:188][262]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.39.12:304][262]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.19-23.39.12:408][262]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.39.12:448][262]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.39.12:572][262]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.12.19-23.39.12:607][262]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.19-23.39.14:927][262]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.19-23.39.14:927][262]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.19-23.39.14:931][262]TextureStreamingBuild: Display: Compiling optional shaders took 2.357 seconds.
+[2019.12.19-23.39.14:986][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.19-23.39.18:624][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Landscape.uasset" SILENT=true
+[2019.12.19-23.39.18:679][262]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Landscape1B4D824349E02AECFBB9C5A39BC0A5A5.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Landscape.uasset'
+[2019.12.19-23.39.24:043][570]LogSlate: Window 'Landscape' being destroyed
+[2019.12.19-23.39.24:051][570]LogSlate: Window 'Landscape' being destroyed
+[2019.12.19-23.40.03:420][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.19-23.40.04:326][546]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround_Auto1265B850B4EA595C463676AA679DD1545.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/FightyTanks_BattleGround_Auto1.umap'
+[2019.12.19-23.40.04:332][546]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FightyTanks_BattleGround' took 0.951
+[2019.12.19-23.40.04:333][546]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.951
+[2019.12.19-23.50.04:553][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.19-23.50.04:554][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FightyTanks_BattleGround' took 0.023
+[2019.12.19-23.59.28:913][698]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.59.28:949][698]LogMaterial: Warning: Material /Game/Landscape.Landscape needed to have new flag set bUsedWithStaticLighting !
+[2019.12.19-23.59.28:952][698]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.59.29:005][698]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.59.29:190][698]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.59.29:209][698]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.19-23.59.29:287][698]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.20-00.00.38:527][586]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.12.20-00.00.38:563][586]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2019.12.20-00.00.38:633][586]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.20-00.00.38:692][586]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.20-00.00.38:692][586]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.20-00.00.38:692][586]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.20-00.00.38:692][586]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.20-00.00.38:743][586]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2019.12.20-00.00.38:829][586]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.12.20-00.00.38:930][586]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2019.12.20-00.00.39:042][586]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2019.12.20-00.00.39:153][586]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2019.12.20-00.00.39:263][586]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.00.39:384][586]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2019.12.20-00.00.39:495][586]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2019.12.20-00.00.39:616][586]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2019.12.20-00.00.39:718][586]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2019.12.20-00.00.39:847][586]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.00.39:965][586]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2019.12.20-00.00.40:077][586]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.12.20-00.00.40:182][586]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2019.12.20-00.00.40:280][586]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2019.12.20-00.00.44:106][768]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.20-00.00.44:374][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.20-00.00.48:646][868]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.12.20-00.00.51:769][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.20-00.00.51:986][ 45]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2019.12.20-00.00.51:991][ 45]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2019.12.20-00.00.51:993][ 45]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2019.12.20-00.00.51:996][ 45]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2019.12.20-00.00.52:000][ 45]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.00.52:006][ 45]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2019.12.20-00.00.52:008][ 45]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2019.12.20-00.00.52:011][ 45]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2019.12.20-00.00.52:014][ 45]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.12.20-00.00.52:017][ 45]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2019.12.20-00.00.52:020][ 45]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.00.52:023][ 45]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2019.12.20-00.00.52:026][ 45]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2019.12.20-00.00.52:029][ 45]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2019.12.20-00.00.52:033][ 45]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2019.12.20-00.00.52:037][ 45]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.12.20-00.00.52:774][ 45]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround_Auto2201DB31C4475D7D61593E599B16C3ED6.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/FightyTanks_BattleGround_Auto2.umap'
+[2019.12.20-00.00.52:781][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FightyTanks_BattleGround' took 1.045
+[2019.12.20-00.00.52:782][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.045
+[2019.12.20-00.00.52:785][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Landscape] ([1] browsable assets)...
+[2019.12.20-00.00.52:785][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Landscape]
+[2019.12.20-00.00.52:786][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/Landscape_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.20-00.00.52:813][ 45]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Landscape_Auto2D1078E6946F246800D3FA882FBA9BF40.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/Landscape_Auto2.uasset'
+[2019.12.20-00.00.52:815][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FightyTanks_BattleGround_sharedassets/Snow_LayerInfo] ([1] browsable assets)...
+[2019.12.20-00.00.52:816][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/FightyTanks_BattleGround_sharedassets/Snow_LayerInfo]
+[2019.12.20-00.00.52:827][ 45]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Snow_LayerInfo_Auto213EAD6404969CBE6879A7A81CCEEB3FB.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/FightyTanks_BattleGround_sharedassets/Snow_LayerInfo_Auto2.uasset'
+[2019.12.20-00.00.52:830][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FightyTanks_BattleGround_sharedassets/Dirt_LayerInfo] ([1] browsable assets)...
+[2019.12.20-00.00.52:830][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/FightyTanks_BattleGround_sharedassets/Dirt_LayerInfo]
+[2019.12.20-00.00.52:843][ 45]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Dirt_LayerInfo_Auto226AFD610451490C9811DF0A8D8B8DF3F.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/FightyTanks_BattleGround_sharedassets/Dirt_LayerInfo_Auto2.uasset'
+[2019.12.20-00.00.52:845][ 45]LogFileHelpers: Auto-saving content packages took 0.061
+[2019.12.20-00.01.26:953][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.01.27:890][919]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2019.12.20-00.01.28:060][919]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.12.20-00.01.28:118][919]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.20-00.01.28:119][919]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.20-00.01.28:119][919]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.20-00.01.28:119][919]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.20-00.01.28:226][920]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2019.12.20-00.01.29:346][932]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2019.12.20-00.01.30:219][934]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2019.12.20-00.01.32:580][ 26]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2019.12.20-00.01.32:796][ 28]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.20-00.01.32:960][ 31]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.20-00.01.34:454][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.01.50:742][730]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.20-00.01.50:807][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-00.01.52:586][825]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2019.12.20-00.01.59:720][159]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.20-00.01.59:770][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-00.02.03:914][384]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2019.12.20-00.02.05:476][420]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2019.12.20-00.02.17:412][697]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2019.12.20-00.02.20:085][816]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.20:085][816]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.02.20:422][816]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2019.12.20-00.02.20:468][816]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2019.12.20-00.02.20:534][816]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2019.12.20-00.02.20:627][816]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2019.12.20-00.02.20:655][816]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2019.12.20-00.02.20:714][816]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.02.20:744][816]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.02.20:775][816]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2019.12.20-00.02.20:809][816]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2019.12.20-00.02.20:842][816]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2019.12.20-00.02.23:122][925]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2019.12.20-00.02.25:830][ 22]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2019.12.20-00.02.26:521][ 54]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.26:521][ 54]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.02.26:767][ 54]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2019.12.20-00.02.26:856][ 54]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2019.12.20-00.02.26:889][ 54]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2019.12.20-00.02.26:918][ 54]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2019.12.20-00.02.29:080][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.02.32:760][344]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2019.12.20-00.02.40:917][590]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.40:917][590]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.02.41:321][590]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.02.41:431][590]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2019.12.20-00.02.41:480][590]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2019.12.20-00.02.41:620][590]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.02.41:708][590]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2019.12.20-00.02.41:744][590]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.12.20-00.02.41:780][590]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2019.12.20-00.02.42:777][634]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.42:777][634]LogEditorTransaction: Undo Edit Tool Strength
+[2019.12.20-00.02.46:414][845]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.46:414][845]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.02.46:922][847]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.46:922][847]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.12.20-00.02.48:058][908]Cmd: TRANSACTION UNDO
+[2019.12.20-00.02.48:058][908]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.02.48:354][908]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2019.12.20-00.02.48:388][908]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2019.12.20-00.02.48:453][908]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2019.12.20-00.02.48:485][908]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.02.48:517][908]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.12.20-00.02.48:552][908]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2019.12.20-00.02.48:584][908]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2019.12.20-00.02.48:615][908]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2019.12.20-00.02.48:646][908]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2019.12.20-00.02.53:762][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.03.08:437][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.03.09:139][ 41]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2019.12.20-00.03.09:472][ 45]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2019.12.20-00.03.12:342][127]Cmd: TRANSACTION UNDO
+[2019.12.20-00.03.12:342][127]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.03.12:787][127]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.12.20-00.03.12:855][127]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2019.12.20-00.03.12:950][127]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.03.13:014][127]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2019.12.20-00.03.13:046][127]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2019.12.20-00.03.13:102][127]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2019.12.20-00.03.19:100][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.03.25:878][877]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2019.12.20-00.03.26:182][880]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2019.12.20-00.03.29:724][924]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2019.12.20-00.03.36:975][242]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2019.12.20-00.03.38:245][267]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2019.12.20-00.03.41:331][348]Cmd: TRANSACTION UNDO
+[2019.12.20-00.03.41:332][348]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.03.41:725][348]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2019.12.20-00.03.41:849][348]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.03.41:882][348]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2019.12.20-00.03.41:920][348]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2019.12.20-00.03.41:956][348]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.12.20-00.03.43:383][400]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 256X256)
+[2019.12.20-00.03.44:583][422]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 256X256)
+[2019.12.20-00.03.47:038][506]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.20-00.03.47:113][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-00.03.47:680][522]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 256X256)
+[2019.12.20-00.03.48:319][529]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 256X256)
+[2019.12.20-00.03.55:699][691]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 256X256)
+[2019.12.20-00.03.56:385][696]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 256X256)
+[2019.12.20-00.03.58:140][717]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 256X256)
+[2019.12.20-00.04.06:747][941]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.06:747][941]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.04.07:099][941]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2019.12.20-00.04.07:148][941]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2019.12.20-00.04.07:253][941]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2019.12.20-00.04.07:383][941]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 256X256)
+[2019.12.20-00.04.07:413][941]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2019.12.20-00.04.07:441][941]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.04.07:476][941]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2019.12.20-00.04.08:622][  1]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.08:622][  1]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.04.08:906][  1]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2019.12.20-00.04.08:982][  1]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2019.12.20-00.04.09:016][  1]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2019.12.20-00.04.09:051][  1]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2019.12.20-00.04.09:114][  1]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 256X256)
+[2019.12.20-00.04.09:148][  1]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2019.12.20-00.04.09:180][  1]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2019.12.20-00.04.10:423][ 68]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.10:423][ 68]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.12.20-00.04.11:803][147]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.11:803][147]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.04.12:020][147]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2019.12.20-00.04.12:065][147]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2019.12.20-00.04.12:106][147]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.04.12:141][147]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2019.12.20-00.04.12:176][147]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.12.20-00.04.12:210][147]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2019.12.20-00.04.12:244][147]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2019.12.20-00.04.12:279][147]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 256X256)
+[2019.12.20-00.04.13:232][199]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.13:232][199]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.04.14:997][265]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.14:997][265]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.04.15:103][265]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2019.12.20-00.04.15:137][265]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2019.12.20-00.04.15:172][265]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2019.12.20-00.04.16:310][329]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.20-00.04.16:375][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-00.04.40:493][761]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.40:494][761]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.12.20-00.04.40:690][767]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.40:690][767]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.12.20-00.04.42:021][767]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.42:021][767]LogEditorTransaction: Undo Edit Brush Falloff
+[2019.12.20-00.04.42:111][767]Cmd: TRANSACTION UNDO
+[2019.12.20-00.04.42:111][767]LogEditorTransaction: Undo Edit Brush Size
+[2019.12.20-00.04.42:378][774]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.20-00.04.42:438][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.20-00.06.19:459][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.20-00.06.19:739][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.20-00.06.20:888][678]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGroundFEBC5B1143A1C44C920619AD0B4564C4.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround.umap'
+[2019.12.20-00.06.23:904][678]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround_BuiltDa04A0D9C749BFDB1BC326A4B661BD4962.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround_BuiltData.uasset'
