@@ -889,3 +889,231 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.14-20.55.47:442][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
 [2020.01.14-20.55.49:803][117]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround3E1D13DA4DC17319D0928F9FEE354F03.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround.umap'
 [2020.01.14-20.55.54:155][117]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround_BuiltDa316F7F7B45122DBDE08BFDA198DEA7BD.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround_BuiltData.uasset'
+[2020.01.14-20.59.28:033][238]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2020.01.14-20.59.30:315][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-20.59.30:389][352]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-20.59.30:441][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-20.59.30:442][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-20.59.30:442][352]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 10:59:30 AM)
+[2020.01.14-20.59.30:443][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-20.59.30:670][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.227595s)
+[2020.01.14-20.59.30:672][352]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-20.59.30:672][352]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2020.01.14-20.59.30:672][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.229569s)
+[2020.01.14-20.59.30:723][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.01.14-20.59.30:741][352]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-20.59.30:770][352]LogInit: FAudioDevice initialized.
+[2020.01.14-20.59.30:802][352]LogLoad: Game class is 'GameModeBase'
+[2020.01.14-20.59.30:808][352]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-15.59.30
+[2020.01.14-20.59.30:810][352]LogWorld: Bringing up level for play took: 0.006393
+[2020.01.14-20.59.30:825][352]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround 0.564
+[2020.01.14-20.59.30:826][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-20.59.34:192][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-20.59.34:193][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-20.59.34:235][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-20.59.34:235][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-20.59.34:287][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-20.59.34:293][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.14-20.59.34:331][542]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.14-20.59.34:913][569]LogEditorViewport: Clicking on Actor (LMB): Tank_BP_C (Tank_BP)
+[2020.01.14-20.59.36:287][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.00.37:153][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.01.23:556][635]BlueprintLog: New page: Compile Tank_BP
+[2020.01.14-21.01.23:846][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.01.14-21.01.24:715][662]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Tank_BP5EC08649485D0BA6F654DB950349B128.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround_sharedassets/TankMeshParts/Tank_BP.uasset'
+[2020.01.14-21.01.27:409][789]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-21.01.27:432][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.27:433][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-21.01.27:433][789]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 11:01:27 AM)
+[2020.01.14-21.01.27:433][789]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-21.01.27:573][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139647s)
+[2020.01.14-21.01.27:574][789]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-21.01.27:575][789]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2020.01.14-21.01.27:575][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.142146s)
+[2020.01.14-21.01.27:626][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.01.14-21.01.27:643][789]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-21.01.27:671][789]LogInit: FAudioDevice initialized.
+[2020.01.14-21.01.27:704][789]LogLoad: Game class is 'GameModeBase'
+[2020.01.14-21.01.27:710][789]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-16.01.27
+[2020.01.14-21.01.27:710][789]LogWorld: Bringing up level for play took: 0.004289
+[2020.01.14-21.01.27:725][789]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround -0.536
+[2020.01.14-21.01.27:725][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.30:544][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.30:546][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.01.30:581][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-21.01.30:581][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.30:634][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.01.30:641][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.14-21.01.30:672][951]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.14-21.01.32:963][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.01.35:862][147]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Tank_BPFE1D7A59463DC407A2AEF0841C8E730E.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround_sharedassets/TankMeshParts/Tank_BP.uasset'
+[2020.01.14-21.01.38:870][312]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-21.01.38:891][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.38:892][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-21.01.38:892][312]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 11:01:38 AM)
+[2020.01.14-21.01.38:892][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-21.01.39:016][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122432s)
+[2020.01.14-21.01.39:017][312]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-21.01.39:017][312]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2020.01.14-21.01.39:017][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.124188s)
+[2020.01.14-21.01.39:056][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.01.14-21.01.39:069][312]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-21.01.39:091][312]LogInit: FAudioDevice initialized.
+[2020.01.14-21.01.39:122][312]LogLoad: Game class is 'GameModeBase'
+[2020.01.14-21.01.39:129][312]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-16.01.39
+[2020.01.14-21.01.39:130][312]LogWorld: Bringing up level for play took: 0.006633
+[2020.01.14-21.01.39:145][312]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround 0.884
+[2020.01.14-21.01.39:146][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.42:134][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.42:135][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.01.42:171][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-21.01.42:171][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.42:217][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.01.42:222][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.01.14-21.01.42:245][486]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.14-21.01.44:969][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.01.48:411][801]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FightyTanks_BattleGround_sharedassets/TankMeshParts/Tank_BP.Tank_BP
+[2020.01.14-21.01.56:253][221]BlueprintLog: New page: Compile Tank_BP
+[2020.01.14-21.01.56:527][221]LogUObjectHash: Compacting FUObjectHashTables data took   9.89ms
+[2020.01.14-21.01.57:403][259]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Tank_BPED8BF014465DB259198123BB588DAFB4.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround_sharedassets/TankMeshParts/Tank_BP.uasset'
+[2020.01.14-21.01.59:439][376]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-21.01.59:459][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.01.59:460][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-21.01.59:460][376]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 11:01:59 AM)
+[2020.01.14-21.01.59:460][376]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-21.01.59:570][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109801s)
+[2020.01.14-21.01.59:572][376]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-21.01.59:572][376]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2020.01.14-21.01.59:572][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.111707s)
+[2020.01.14-21.01.59:642][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.01.14-21.01.59:657][376]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-21.01.59:686][376]LogInit: FAudioDevice initialized.
+[2020.01.14-21.01.59:718][376]LogLoad: Game class is 'GameModeBase'
+[2020.01.14-21.01.59:754][376]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-16.01.59
+[2020.01.14-21.01.59:755][376]LogWorld: Bringing up level for play took: 0.035264
+[2020.01.14-21.01.59:769][376]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround -0.491
+[2020.01.14-21.01.59:770][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.02.03:611][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.02.03:612][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.02.03:646][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-21.02.03:646][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.02.03:693][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.02.03:724][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.01.14-21.02.03:746][596]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.14-21.03.25:183][  7]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.25:280][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.25:391][  8]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.25:921][ 27]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.25:971][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.26:967][ 83]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.27:020][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.27:140][ 89]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.27:198][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.27:205][ 89]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.27:254][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.29:915][228]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.29:989][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.31:256][292]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.14-21.03.34:998][509]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.14-21.03.35:063][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.35:277][521]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.14-21.03.35:348][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.03.36:014][544]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-21.03.36:050][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.03.36:050][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-21.03.36:050][544]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 11:03:36 AM)
+[2020.01.14-21.03.36:051][544]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-21.03.36:277][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.226161s)
+[2020.01.14-21.03.36:280][544]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-21.03.36:280][544]LogPlayLevel: PIE: World Init took: (0.002759s)
+[2020.01.14-21.03.36:281][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.229970s)
+[2020.01.14-21.03.36:337][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.01.14-21.03.36:371][544]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-21.03.36:429][544]LogInit: FAudioDevice initialized.
+[2020.01.14-21.03.36:467][544]LogLoad: Game class is 'GameModeBase'
+[2020.01.14-21.03.36:475][544]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-16.03.36
+[2020.01.14-21.03.36:475][544]LogWorld: Bringing up level for play took: 0.007646
+[2020.01.14-21.03.36:493][544]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround 0.232
+[2020.01.14-21.03.36:493][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.03.45:505][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.03.45:506][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.03.45:539][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-21.03.45:539][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.03.45:587][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.03.45:596][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.01.14-21.03.45:615][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.14-21.05.03:791][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.05.23:465][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.05.27:999][  8]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.14-21.06.53:684][567]LogSlate: Window 'Create GameMode Blueprint' being destroyed
+[2020.01.14-21.06.53:736][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.14-21.06.53:741][567]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FightyTanksGameMode_BP.FightyTanksGameMode_BP
+[2020.01.14-21.06.57:808][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.01.14-21.06.59:364][732]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround_Auto396493D384624ECBE8BB842985A9808D1.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/FightyTanks_BattleGround_Auto3.umap'
+[2020.01.14-21.06.59:371][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FightyTanks_BattleGround' took 1.611
+[2020.01.14-21.06.59:371][732]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.611
+[2020.01.14-21.06.59:375][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FightyTanksGameMode_BP] ([1] browsable assets)...
+[2020.01.14-21.06.59:376][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FightyTanksGameMode_BP]
+[2020.01.14-21.06.59:406][732]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanksGameMode_BP_Auto3E38AAA57417E4776A7B90881F525D36F.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/Blueprints/FightyTanksGameMode_BP_Auto3.uasset'
+[2020.01.14-21.06.59:409][732]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.01.14-21.07.07:562][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.07.20:124][563]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.14-21.07.39:035][377]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.383 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.14-21.07.40:629][420]LogSlate: Window 'FightyTanksGameMode_BP' being destroyed
+[2020.01.14-21.07.43:451][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.07.43:551][595]BlueprintLog: New page: Compile FightyTanksGameMode_BP
+[2020.01.14-21.07.43:774][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.14-21.07.46:065][727]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanksGameMode_BP8363CF374295DF7ED9EC85A28D610399.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/FightyTanksGameMode_BP.uasset'
+[2020.01.14-21.07.49:470][927]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-21.07.49:502][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.49:503][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-21.07.49:503][927]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 11:07:49 AM)
+[2020.01.14-21.07.49:503][927]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-21.07.49:730][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.225549s)
+[2020.01.14-21.07.49:731][927]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-21.07.49:732][927]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2020.01.14-21.07.49:732][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.228282s)
+[2020.01.14-21.07.49:800][927]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.01.14-21.07.49:841][927]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-21.07.49:903][927]LogInit: FAudioDevice initialized.
+[2020.01.14-21.07.49:940][927]LogLoad: Game class is 'FightyTanksGameMode_BP_C'
+[2020.01.14-21.07.49:948][927]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-16.07.49
+[2020.01.14-21.07.49:949][927]LogWorld: Bringing up level for play took: 0.007444
+[2020.01.14-21.07.49:979][927]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround -0.282
+[2020.01.14-21.07.49:980][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.54:549][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.54:551][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.07.54:589][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-21.07.54:589][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.54:647][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.07.54:657][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.01.14-21.07.54:685][186]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.14-21.07.56:906][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.07.56:990][319]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.14-21.07.57:017][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.57:018][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.14-21.07.57:018][319]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 14, 2020, 11:07:57 AM)
+[2020.01.14-21.07.57:019][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.14-21.07.57:173][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155006s)
+[2020.01.14-21.07.57:175][319]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.14-21.07.57:175][319]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2020.01.14-21.07.57:175][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.157457s)
+[2020.01.14-21.07.57:224][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.14-21.07.57:240][319]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.14-21.07.57:269][319]LogInit: FAudioDevice initialized.
+[2020.01.14-21.07.57:303][319]LogLoad: Game class is 'FightyTanksGameMode_BP_C'
+[2020.01.14-21.07.57:310][319]LogWorld: Bringing World /Game/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.14-16.07.57
+[2020.01.14-21.07.57:311][319]LogWorld: Bringing up level for play took: 0.007550
+[2020.01.14-21.07.57:328][319]PIE: Play in editor start time for /Game/UEDPIE_0_FightyTanks_BattleGround 1.068
+[2020.01.14-21.07.57:329][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.59:592][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.59:594][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.07.59:635][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.14-21.07.59:636][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.14-21.07.59:689][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.14-21.07.59:696][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.01.14-21.07.59:706][444]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.14-21.09.52:956][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.14-21.09.53:968][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.14-21.09.54:966][617]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround480B444F48C710CA15D22BADC0D2A272.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround.umap'
+[2020.01.14-21.09.57:852][617]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/FightyTanks_BattleGround_BuiltDa93CC505743F3BBC6E8E1A2B434E3BFA4.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround_BuiltData.uasset'
