@@ -2524,3 +2524,687 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.25-19.47.10:847][ 87]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
 [2020.01.25-20.07.58:090][804]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
 [2020.01.25-22.21.30:530][676]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-22.38.46:834][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-22.38.46:895][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-22.38.46:917][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-22.38.46:942][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-22.38.47:682][  1]LogEditorViewport: Clicking Background
+[2020.01.25-22.38.48:133][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-22.40.04:138][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.25-22.40.20:280][ 68]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.01.25-22.42.26:441][174]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.25-22.45.41:116][493]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MenuWidget.MenuWidget
+[2020.01.25-22.45.45:583][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuWidget" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/MenuWidget.uasset" SILENT=true
+[2020.01.25-22.45.45:727][674]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MenuWidgetC37F42FD4A44FA2E97AF62AC3B3E200B.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/MenuWidget.uasset'
+[2020.01.25-22.45.46:708][726]BlueprintLog: New page: Compile MenuWidget
+[2020.01.25-22.45.49:341][726]LogUObjectHash: Compacting FUObjectHashTables data took  27.97ms
+[2020.01.25-22.47.12:136][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.SKEL_MenuWidget_C' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:136][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.MenuWidget_C' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:136][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.MenuWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:137][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.MenuWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:137][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.MenuWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:137][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.SKEL_MenuWidget_C:PreConstruct' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:137][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.SKEL_MenuWidget_C:Construct' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:138][ 50]LogMetaData: Removing '/Game/Blueprints/MenuWidget.SKEL_MenuWidget_C:Tick' ref from Metadata '/Game/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.12:173][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MenuWidget" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MenuWidget.uasset" SILENT=true
+[2020.01.25-22.47.12:194][ 50]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MenuWidgetD9BC431447E69498174B489F9E0233CB.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MenuWidget.uasset'
+[2020.01.25-22.47.12:525][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.01.25-22.47.12:732][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.01.25-22.47.12:837][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.25-22.47.15:203][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.SKEL_PlayerUI_C' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:203][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.PlayerUI_C' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:204][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.PlayerUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:204][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.PlayerUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:204][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.PlayerUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:205][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.PlayerUI_C:AimPoint' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:205][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.SKEL_PlayerUI_C:AimPoint' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:205][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.SKEL_PlayerUI_C:Tick' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:205][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.SKEL_PlayerUI_C:Construct' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:205][154]LogMetaData: Removing '/Game/Blueprints/PlayerUI.SKEL_PlayerUI_C:PreConstruct' ref from Metadata '/Game/PlayerUI.PackageMetaData'
+[2020.01.25-22.47.15:278][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerUI" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/PlayerUI.uasset" SILENT=true
+[2020.01.25-22.47.15:295][154]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/PlayerUICEFC729F418937C5B0FFB0AF0755F954.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/PlayerUI.uasset'
+[2020.01.25-22.47.15:587][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.01.25-22.47.15:681][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.25-22.47.15:744][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.25-22.47.15:844][154]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/PlayerCon_BP1C3AABC24AC6E622475924826FE154D4.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround/PlayerCon_BP.uasset'
+[2020.01.25-22.47.42:222][592]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1745)].
+[2020.01.25-22.47.42:404][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.01.25-22.47.42:728][592]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_Auto97B3267744D627F73A55559879CC22A91.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/Autosaves/Game/Levels/MainMenu_Auto9.umap'
+[2020.01.25-22.47.42:758][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.418
+[2020.01.25-22.47.42:758][592]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.418
+[2020.01.25-22.47.53:635][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.01.25-22.47.53:644][221]LogMetaData: Removing '/Game/Blueprints/MainMenu_BP.MainMenu_BP_C' ref from Metadata '/Game/Blueprints/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.53:644][221]LogMetaData: Removing '/Game/Blueprints/MainMenu_BP.SKEL_MainMenu_BP_C' ref from Metadata '/Game/Blueprints/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.53:644][221]LogMetaData: Removing '/Game/Blueprints/MainMenu_BP.MainMenu_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.53:646][221]LogMetaData: Removing '/Game/Blueprints/MainMenu_BP.MainMenu_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.53:646][221]LogMetaData: Removing '/Game/Blueprints/MainMenu_BP.MainMenu_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/MenuWidget.PackageMetaData'
+[2020.01.25-22.47.53:671][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-22.47.53:685][221]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP1914FCA5455CBDAB80CCAD85CC784F52.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MainMenu_BP.uasset'
+[2020.01.25-22.47.53:952][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.01.25-22.47.54:019][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.01.25-22.47.54:078][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.25-22.48.02:091][669]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.01.25-22.48.02:580][669]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.01.25-22.48.02:583][669]LogMetaData: Removing '/Game/Blueprints/PlayerUI_BP.PlayerUI_BP_C' ref from Metadata '/Game/Blueprints/PlayerUI.PackageMetaData'
+[2020.01.25-22.48.02:584][669]LogMetaData: Removing '/Game/Blueprints/PlayerUI_BP.SKEL_PlayerUI_BP_C' ref from Metadata '/Game/Blueprints/PlayerUI.PackageMetaData'
+[2020.01.25-22.48.02:584][669]LogMetaData: Removing '/Game/Blueprints/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/PlayerUI.PackageMetaData'
+[2020.01.25-22.48.02:584][669]LogMetaData: Removing '/Game/Blueprints/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/PlayerUI.PackageMetaData'
+[2020.01.25-22.48.02:584][669]LogMetaData: Removing '/Game/Blueprints/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/PlayerUI.PackageMetaData'
+[2020.01.25-22.48.02:610][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerUI_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/PlayerUI_BP.uasset" SILENT=true
+[2020.01.25-22.48.02:690][669]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/PlayerUI_BPE34301974EE75297D0B235B0BFD9D936.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/PlayerUI_BP.uasset'
+[2020.01.25-22.48.02:959][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.01.25-22.48.03:053][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.25-22.48.03:111][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.01.25-22.48.03:270][669]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/PlayerCon_BP5A9E46F8432173694DE8CCA534797526.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround/PlayerCon_BP.uasset'
+[2020.01.25-22.48.54:793][983]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-22.48.54:878][983]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2020.01.25-22.48.55:780][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-22.48.55:815][ 27]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP087D2017481566840F5640965580294F.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MainMenu_BP.uasset'
+[2020.01.25-22.49.38:741][307]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.25-22.50.05:821][872]BlueprintLog: New page: Compile MainMenu
+[2020.01.25-22.50.06:132][872]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.01.25-22.50.07:116][919]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.01.25-22.50.07:397][919]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenuF6D69009453013B295518D8839E55492.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/MainMenu.umap'
+[2020.01.25-22.50.07:465][919]LogFileHelpers: Saving map 'MainMenu' took 0.490
+[2020.01.25-22.50.31:629][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.01.25-22.50.31:983][ 40]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenuABC9A74F494133C8409682B6A5CCA069.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/MainMenu.umap'
+[2020.01.25-22.50.32:030][ 40]LogFileHelpers: Saving map 'MainMenu' took 0.483
+[2020.01.25-22.50.32:700][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-22.50.32:833][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-22.50.32:885][ 73]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.25-22.50.32:886][ 73]LogPlayLevel: [PlayLevel] Compiling PlayerCon_BP before play...
+[2020.01.25-22.50.33:320][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.01.25-22.50.33:343][ 73]LogPlayLevel: PlayLevel: Blueprint regeneration took 467 ms (1 blueprints)
+[2020.01.25-22.50.33:343][ 73]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 12:50:33 PM)
+[2020.01.25-22.50.33:460][ 73]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-22.50.33:709][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.248825s)
+[2020.01.25-22.50.33:797][ 73]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-22.50.33:845][ 73]LogPlayLevel: PIE: World Init took: (0.134646s)
+[2020.01.25-22.50.33:857][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.397385s)
+[2020.01.25-22.50.33:931][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.01.25-22.50.34:125][ 73]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-22.50.34:156][ 73]LogInit: FAudioDevice initialized.
+[2020.01.25-22.50.34:249][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-22.50.34:474][ 73]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-22.50.34:489][ 73]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-17.50.34
+[2020.01.25-22.50.34:523][ 73]LogWorld: Bringing up level for play took: 0.047137
+[2020.01.25-22.50.34:754][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-22.50.35:280][ 73]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 1.487
+[2020.01.25-22.50.35:343][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-22.50.39:100][196]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-22.50.39:272][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-22.50.39:475][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-22.50.39:476][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-22.50.39:957][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.25-22.50.40:045][197]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.01.25-22.52.17:661][706]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.25-22.53.13:988][ 71]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.25-22.53.14:661][ 71]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround
+[2020.01.25-22.53.14:771][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.25-22.53.14:914][ 71]Cmd: MAP LOAD FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/FightyTanks_BattleGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.25-22.53.14:935][ 71]LightingResults: New page: Lighting Build
+[2020.01.25-22.53.14:964][ 71]LoadErrors: New page: Loading map: FightyTanks_BattleGround.umap
+[2020.01.25-22.53.15:232][ 71]MapCheck: New page: Map Check
+[2020.01.25-22.53.15:232][ 71]LightingResults: New page: Lighting Build
+[2020.01.25-22.53.15:338][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.01.25-22.53.22:312][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.25-22.53.22:476][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.01.25-22.53.22:652][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.25-22.53.22:754][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.665ms to complete.
+[2020.01.25-22.53.22:754][ 71]LogFileHelpers: Loading map 'FightyTanks_BattleGround' took 7.983
+[2020.01.25-23.02.59:605][793]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.25-23.03.00:339][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-23.03.00:395][793]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.25-23.03.00:485][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.25-23.03.01:371][825]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.03.01:579][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.25-23.03.01:580][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.03.01:580][825]PIE: New page: PIE session: FightyTanks_BattleGround (Jan 25, 2020, 1:03:01 PM)
+[2020.01.25-23.03.01:581][825]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FightyTanks_BattleGround
+[2020.01.25-23.03.02:259][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.677902s)
+[2020.01.25-23.03.02:260][825]LogAIModule: Creating AISystem for world FightyTanks_BattleGround
+[2020.01.25-23.03.02:261][825]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2020.01.25-23.03.02:261][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround to /Game/Levels/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround (0.679472s)
+[2020.01.25-23.03.02:326][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.01.25-23.03.02:343][825]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.03.02:365][825]LogInit: FAudioDevice initialized.
+[2020.01.25-23.03.02:534][825]LogLoad: Game class is 'FightyTanksGameMode_BP_C'
+[2020.01.25-23.03.02:639][825]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FightyTanks_BattleGround.FightyTanks_BattleGround up for play (max tick rate 60) at 2020.01.25-18.03.02
+[2020.01.25-23.03.02:797][825]LogWorld: Bringing up level for play took: 0.261346
+[2020.01.25-23.03.02:848][825]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FightyTanks_BattleGround 1.063
+[2020.01.25-23.03.02:849][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.25-23.03.09:414][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.25-23.03.09:420][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.03.09:493][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.03.09:493][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround' with GeneratedClass '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround_C' with ClassGeneratedBy '/Game/Levels/FightyTanks_BattleGround.FightyTanks_BattleGround:PersistentLevel.FightyTanks_BattleGround'
+[2020.01.25-23.03.09:577][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.03.09:636][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.01.25-23.03.09:670][185]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.01.25-23.03.10:870][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.25-23.10.14:663][568]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.10.14:666][568]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.01.25-23.10.14:734][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.01.25-23.10.14:735][568]Cmd: MAP LOAD FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.25-23.10.14:735][568]LightingResults: New page: Lighting Build
+[2020.01.25-23.10.14:736][568]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.01.25-23.10.14:738][568]MapCheck: New page: Map Check
+[2020.01.25-23.10.14:738][568]LightingResults: New page: Lighting Build
+[2020.01.25-23.10.14:894][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.01.25-23.10.14:927][568]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.25-23.10.14:988][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.01.25-23.10.15:015][568]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.25-23.10.15:015][568]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2020.01.25-23.10.15:015][568]LogFileHelpers: Loading map 'MainMenu' took 0.281
+[2020.01.25-23.10.44:953][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.MainMenu_BP_C' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:954][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.SKEL_MainMenu_BP_C' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:954][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.MainMenu_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:954][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.MainMenu_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:954][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.MainMenu_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:955][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.SKEL_MainMenu_BP_C:PreConstruct' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:955][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.SKEL_MainMenu_BP_C:Construct' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:955][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.SKEL_MainMenu_BP_C:Tick' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:955][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.SKEL_MainMenu_BP_C:Image_110' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:956][335]LogMetaData: Removing '/Game/UI/MainMenu_BP.MainMenu_BP_C:Image_110' ref from Metadata '/Game/Blueprints/MainMenu_BP.PackageMetaData'
+[2020.01.25-23.10.44:983][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.10.44:998][335]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPCFED6AC541EE6D854F4EF2B018F0EF80.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.10.45:007][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.10.45:043][335]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPB25A1CC745FB19FF2FFB4995927B75E1.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Blueprints/MainMenu_BP.uasset'
+[2020.01.25-23.10.48:852][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP_C' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:853][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.SKEL_PlayerUI_BP_C' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:853][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:855][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:855][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:856][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.SKEL_PlayerUI_BP_C:PreConstruct' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:856][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.SKEL_PlayerUI_BP_C:Construct' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:856][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.SKEL_PlayerUI_BP_C:Tick' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:856][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.SKEL_PlayerUI_BP_C:AimPoint' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:856][434]LogMetaData: Removing '/Game/UI/PlayerUI_BP.PlayerUI_BP_C:AimPoint' ref from Metadata '/Game/Blueprints/PlayerUI_BP.PackageMetaData'
+[2020.01.25-23.10.48:882][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PlayerUI_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/PlayerUI_BP.uasset" SILENT=true
+[2020.01.25-23.10.48:932][434]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/PlayerUI_BP55B105C04F0314B1A12E519C0DC95CAD.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/PlayerUI_BP.uasset'
+[2020.01.25-23.10.49:195][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.01.25-23.10.49:262][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.25-23.10.49:318][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.01.25-23.10.49:357][434]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/PlayerCon_BPF7F9ED6F4990740F3CAD8EA58DDC033D.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/FightyTanks_BattleGround/PlayerCon_BP.uasset'
+[2020.01.25-23.11.16:427][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/NateH/Desktop/Tank blueprint image.jpg)
+[2020.01.25-23.11.17:006][765]LogTexture: Display: Building textures: Tank_blueprint_image (AutoDXT, 4096X2160)
+[2020.01.25-23.12.58:955][528]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.12.59:083][528]LogUObjectHash: Compacting FUObjectHashTables data took   9.90ms
+[2020.01.25-23.12.59:846][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.12.59:869][565]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPA049AF5E4C0ED5580A65B789F8C67D69.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.13.00:899][625]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.13.00:964][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.13.00:965][625]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.25-23.13.00:966][625]LogPlayLevel: [PlayLevel] Compiling PlayerCon_BP before play...
+[2020.01.25-23.13.01:249][625]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2020.01.25-23.13.01:593][625]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.01.25-23.13.01:593][625]LogPlayLevel: PlayLevel: Blueprint regeneration took 627 ms (2 blueprints)
+[2020.01.25-23.13.01:593][625]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:13:01 PM)
+[2020.01.25-23.13.01:593][625]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.13.01:594][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000890s)
+[2020.01.25-23.13.01:596][625]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.13.01:596][625]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2020.01.25-23.13.01:596][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002774s)
+[2020.01.25-23.13.01:662][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.01.25-23.13.01:681][625]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.13.01:706][625]LogInit: FAudioDevice initialized.
+[2020.01.25-23.13.01:724][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.13.01:758][625]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.13.01:760][625]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.13.01
+[2020.01.25-23.13.01:761][625]LogWorld: Bringing up level for play took: 0.000992
+[2020.01.25-23.13.01:775][625]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.13.01:780][625]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.006
+[2020.01.25-23.13.01:780][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.13.05:509][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.13.05:511][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.13.05:528][843]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.13.05:571][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.13.05:573][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.13.05:656][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.01.25-23.13.05:672][844]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.01.25-23.14.52:716][169]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.14.52:787][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.14.52:788][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.14.52:788][169]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:14:52 PM)
+[2020.01.25-23.14.52:789][169]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.14.52:791][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001689s)
+[2020.01.25-23.14.52:792][169]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.14.52:792][169]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2020.01.25-23.14.52:793][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003752s)
+[2020.01.25-23.14.52:878][169]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
+[2020.01.25-23.14.52:898][169]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.14.52:972][169]LogInit: FAudioDevice initialized.
+[2020.01.25-23.14.52:988][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.14.53:032][169]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.14.53:035][169]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.14.53
+[2020.01.25-23.14.53:035][169]LogWorld: Bringing up level for play took: 0.001050
+[2020.01.25-23.14.53:048][169]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.14.53:052][169]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 1.267
+[2020.01.25-23.14.53:053][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.14.54:346][241]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.14.54:354][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.14.54:388][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.14.54:389][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.14.54:480][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.01.25-23.14.54:531][242]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.01.25-23.15.15:329][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.25-23.15.35:987][400]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.01.25-23.16.24:492][727]BlueprintLog: New page: Compile MainMenu
+[2020.01.25-23.16.25:189][727]LogUObjectHash: Compacting FUObjectHashTables data took  12.49ms
+[2020.01.25-23.16.26:145][757]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2020.01.25-23.16.26:540][757]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu44F9F80940AA9B7DDBD9A1BF0163D15F.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/MainMenu.umap'
+[2020.01.25-23.16.26:601][757]LogFileHelpers: Saving map 'MainMenu' took 0.785
+[2020.01.25-23.16.27:135][784]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.16.27:313][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.27:314][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.16.27:314][784]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:16:27 PM)
+[2020.01.25-23.16.27:314][784]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.16.27:317][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002648s)
+[2020.01.25-23.16.27:320][784]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.16.27:321][784]LogPlayLevel: PIE: World Init took: (0.003678s)
+[2020.01.25-23.16.27:321][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.007054s)
+[2020.01.25-23.16.27:385][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.01.25-23.16.27:402][784]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.16.27:427][784]LogInit: FAudioDevice initialized.
+[2020.01.25-23.16.27:441][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.16.27:481][784]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.16.27:483][784]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.16.27
+[2020.01.25-23.16.27:484][784]LogWorld: Bringing up level for play took: 0.001264
+[2020.01.25-23.16.27:497][784]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.16.27:536][784]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.25
+[2020.01.25-23.16.27:537][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.33:582][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.33:583][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.16.33:603][142]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.16.33:652][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.16.33:653][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.33:734][142]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.01.25-23.16.33:765][143]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.01.25-23.16.35:566][247]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.16.35:603][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.35:603][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.16.35:603][247]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:16:35 PM)
+[2020.01.25-23.16.35:604][247]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.16.35:605][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000956s)
+[2020.01.25-23.16.35:606][247]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.16.35:606][247]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2020.01.25-23.16.35:606][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002332s)
+[2020.01.25-23.16.35:669][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.01.25-23.16.35:685][247]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.16.35:710][247]LogInit: FAudioDevice initialized.
+[2020.01.25-23.16.35:724][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.16.35:758][247]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.16.35:760][247]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.16.35
+[2020.01.25-23.16.35:761][247]LogWorld: Bringing up level for play took: 0.000950
+[2020.01.25-23.16.35:774][247]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.16.35:777][247]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.009
+[2020.01.25-23.16.35:777][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.55:924][691]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.16.55:934][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.55:974][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.16.55:974][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.16.56:052][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.25-23.16.56:141][692]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.01.25-23.17.00:728][966]BlueprintLog: New page: Compile MainMenu
+[2020.01.25-23.17.01:054][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.01.25-23.17.01:679][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.01.25-23.17.01:973][994]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenuFAB3BF5643E68D3E7B5537802D232E17.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/MainMenu.umap'
+[2020.01.25-23.17.02:019][994]LogFileHelpers: Saving map 'MainMenu' took 0.403
+[2020.01.25-23.19.02:760][488]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.19.02:848][488]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2020.01.25-23.19.04:093][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.19.04:179][553]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP9D0339624FC4BCA0A425CF991F451584.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.19.04:817][589]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.19.04:866][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.19.04:867][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.19.04:868][589]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:19:04 PM)
+[2020.01.25-23.19.04:869][589]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.19.04:871][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002105s)
+[2020.01.25-23.19.04:872][589]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.19.04:873][589]LogPlayLevel: PIE: World Init took: (0.001926s)
+[2020.01.25-23.19.04:874][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.005006s)
+[2020.01.25-23.19.04:947][589]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.01.25-23.19.05:043][589]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.19.05:074][589]LogInit: FAudioDevice initialized.
+[2020.01.25-23.19.05:090][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.19.05:124][589]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.19.05:125][589]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.19.05
+[2020.01.25-23.19.05:126][589]LogWorld: Bringing up level for play took: 0.001131
+[2020.01.25-23.19.05:140][589]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.19.05:145][589]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.641
+[2020.01.25-23.19.05:145][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.19.09:826][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.19.09:828][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.19.09:851][868]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.19.09:890][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.19.09:890][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.19.09:962][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.01.25-23.19.09:987][869]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.01.25-23.19.15:985][960]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.19.16:016][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.19.16:017][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.19.16:017][960]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:19:16 PM)
+[2020.01.25-23.19.16:017][960]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.19.16:019][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001061s)
+[2020.01.25-23.19.16:019][960]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.19.16:020][960]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2020.01.25-23.19.16:020][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002576s)
+[2020.01.25-23.19.16:075][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.01.25-23.19.16:088][960]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.19.16:111][960]LogInit: FAudioDevice initialized.
+[2020.01.25-23.19.16:123][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.19.16:159][960]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.19.16:161][960]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.19.16
+[2020.01.25-23.19.16:162][960]LogWorld: Bringing up level for play took: 0.000793
+[2020.01.25-23.19.16:175][960]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.19.16:178][960]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.392
+[2020.01.25-23.19.16:178][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.31:640][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.26.31:666][289]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPAFE839774F01A4E8378F0FA9D6F65DB0.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.26.40:477][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.40:478][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.26.40:495][816]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.26.40:534][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.26.40:534][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.40:599][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.01.25-23.26.40:610][817]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.01.25-23.26.42:755][945]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.26.42:813][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.01.25-23.26.43:892][  8]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.26.43:923][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.43:924][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.26.43:924][  8]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:26:43 PM)
+[2020.01.25-23.26.43:924][  8]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.26.43:925][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000960s)
+[2020.01.25-23.26.43:926][  8]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.26.43:926][  8]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2020.01.25-23.26.43:926][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002256s)
+[2020.01.25-23.26.43:981][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.01.25-23.26.43:996][  8]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.26.44:018][  8]LogInit: FAudioDevice initialized.
+[2020.01.25-23.26.44:033][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.26.44:073][  8]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.26.44:076][  8]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.26.44
+[2020.01.25-23.26.44:077][  8]LogWorld: Bringing up level for play took: 0.001283
+[2020.01.25-23.26.44:090][  8]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.26.44:093][  8]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.308
+[2020.01.25-23.26.44:094][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.46:540][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.46:541][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.26.46:558][154]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.26.46:600][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.26.46:600][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.26.46:668][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.25-23.26.46:682][155]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.01.25-23.26.58:689][756]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.26.58:747][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.01.25-23.26.59:343][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.26.59:362][785]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPC80E06D9442152A68AAC43B2380E77FD.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.26.59:987][822]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.27.00:021][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.27.00:022][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.27.00:022][822]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:27:00 PM)
+[2020.01.25-23.27.00:023][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.27.00:024][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001110s)
+[2020.01.25-23.27.00:025][822]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.27.00:025][822]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2020.01.25-23.27.00:025][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002488s)
+[2020.01.25-23.27.00:078][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.01.25-23.27.00:091][822]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.27.00:113][822]LogInit: FAudioDevice initialized.
+[2020.01.25-23.27.00:126][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.27.00:165][822]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.27.00:167][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.27.00
+[2020.01.25-23.27.00:167][822]LogWorld: Bringing up level for play took: 0.000934
+[2020.01.25-23.27.00:180][822]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.27.00:183][822]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.397
+[2020.01.25-23.27.00:183][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.27.13:873][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.27.13:875][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.27.13:897][126]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.27.13:946][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.27.13:947][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.27.14:060][126]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.01.25-23.27.14:216][127]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.01.25-23.28.06:501][350]LogSlate: Window 'Save Asset As' being destroyed
+[2020.01.25-23.30.28:461][348]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.25-23.30.34:093][481]LogFactory: Error: Can't find file 'Caution - Heavy to load\RADAR.ttf' for import
+[2020.01.25-23.30.39:395][481]LogSlate: Window 'Message' being destroyed
+[2020.01.25-23.30.39:404][481]LogAssetTools: Warning: Failed to import 'Caution - Heavy to load\RADAR.ttf'. Failed to create asset '/Game/UI/RADAR'.
+Please see Output Log for details.
+[2020.01.25-23.30.52:610][623]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (24.149 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.01.25-23.31.08:113][783]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/NateH/Desktop/RADAR.ttf)
+[2020.01.25-23.31.12:545][783]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.01.25-23.31.12:800][783]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.01.25-23.31.13:038][784]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Game/UI/RADAR.RADAR', Character: '_ (U+005f)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.01.25-23.31.13:121][784]LogSlate: Took 0.083652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.25-23.31.13:179][784]LogSlate: Took 0.055002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.25-23.31.13:205][784]LogSlate: Took 0.022876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.25-23.31.13:223][784]LogSlate: Took 0.017282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.25-23.31.13:306][784]LogSlate: Took 0.078305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.25-23.31.13:377][784]LogSlate: Took 0.070385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.25-23.31.23:220][ 54]LogSlate: Took 0.000930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.25-23.31.23:251][ 54]LogSlate: Took 0.026220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.25-23.32.35:204][784]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.32.35:300][784]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.01.25-23.32.36:030][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.32.36:118][820]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP4196D4D94CF7C9AC8833EA872F0172EC.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.32.36:666][852]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.32.36:697][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.32.36:697][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.32.36:698][852]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:32:36 PM)
+[2020.01.25-23.32.36:698][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.32.36:699][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001138s)
+[2020.01.25-23.32.36:700][852]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.32.36:700][852]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.01.25-23.32.36:700][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002261s)
+[2020.01.25-23.32.36:753][852]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.01.25-23.32.36:768][852]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.32.36:792][852]LogInit: FAudioDevice initialized.
+[2020.01.25-23.32.36:804][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.32.36:842][852]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.32.36:843][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.32.36
+[2020.01.25-23.32.36:844][852]LogWorld: Bringing up level for play took: 0.000788
+[2020.01.25-23.32.36:856][852]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.32.36:859][852]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 1.073
+[2020.01.25-23.32.36:860][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.37:750][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.37:752][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.33.37:782][729]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.33.37:820][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.33.37:821][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.37:902][729]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.01.25-23.33.37:922][730]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.01.25-23.33.38:952][790]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.33.39:016][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.01.25-23.33.39:629][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.33.39:654][817]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPB2A1FE2C4CFF1D61836E97BF3D9EAA08.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.33.40:294][854]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.33.40:331][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.40:332][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.33.40:332][854]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:33:40 PM)
+[2020.01.25-23.33.40:332][854]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.33.40:333][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000917s)
+[2020.01.25-23.33.40:334][854]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.33.40:335][854]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2020.01.25-23.33.40:335][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002492s)
+[2020.01.25-23.33.40:397][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.01.25-23.33.40:412][854]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.33.40:437][854]LogInit: FAudioDevice initialized.
+[2020.01.25-23.33.40:456][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.33.40:493][854]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.33.40:495][854]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.33.40
+[2020.01.25-23.33.40:496][854]LogWorld: Bringing up level for play took: 0.000955
+[2020.01.25-23.33.40:509][854]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.33.40:513][854]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.728
+[2020.01.25-23.33.40:514][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.41:645][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.41:647][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.33.41:666][920]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.33.41:712][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.33.41:713][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.41:789][920]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.01.25-23.33.41:805][921]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.01.25-23.33.54:182][528]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.33.54:249][528]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.01.25-23.33.54:786][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.33.54:810][549]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP524F6B0049C0F9093561A88B14121290.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.33.55:470][587]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.33.55:509][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.33.55:510][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.33.55:510][587]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:33:55 PM)
+[2020.01.25-23.33.55:510][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.33.55:512][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001503s)
+[2020.01.25-23.33.55:513][587]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.33.55:513][587]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2020.01.25-23.33.55:513][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002716s)
+[2020.01.25-23.33.55:788][587]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.01.25-23.33.55:804][587]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.33.55:832][587]LogInit: FAudioDevice initialized.
+[2020.01.25-23.33.55:856][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.33.55:891][587]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.33.55:893][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.33.55
+[2020.01.25-23.33.55:894][587]LogWorld: Bringing up level for play took: 0.000980
+[2020.01.25-23.33.55:908][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.33.55:915][587]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.13
+[2020.01.25-23.33.55:916][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.04:995][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.35.05:018][164]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP526D9743484CE22F4A0BDBAD6F00116A.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.35.06:065][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.06:066][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.35.06:093][226]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.35.06:130][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.35.06:130][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.06:212][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.01.25-23.35.06:230][227]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.01.25-23.35.07:148][281]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.35.07:214][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.01.25-23.35.08:241][332]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.35.08:279][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.08:280][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.35.08:280][332]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:35:08 PM)
+[2020.01.25-23.35.08:280][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.35.08:281][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000985s)
+[2020.01.25-23.35.08:282][332]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.35.08:282][332]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2020.01.25-23.35.08:282][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002176s)
+[2020.01.25-23.35.08:343][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.01.25-23.35.08:360][332]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.35.08:386][332]LogInit: FAudioDevice initialized.
+[2020.01.25-23.35.08:405][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.35.08:441][332]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.35.08:443][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.35.08
+[2020.01.25-23.35.08:444][332]LogWorld: Bringing up level for play took: 0.001135
+[2020.01.25-23.35.08:458][332]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.35.08:463][332]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.677
+[2020.01.25-23.35.08:463][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.19:629][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.19:630][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.35.19:652][764]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.35.19:697][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.35.19:697][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.35.19:776][764]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.01.25-23.35.19:795][765]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.01.25-23.37.26:338][285]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.37.26:411][285]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.01.25-23.37.27:051][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.37.27:076][315]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP08EA5128402831D6E8B7379B03202DE2.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.37.27:841][359]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.37.27:878][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.27:879][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.37.27:879][359]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:37:27 PM)
+[2020.01.25-23.37.27:879][359]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.37.27:881][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001155s)
+[2020.01.25-23.37.27:881][359]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.37.27:882][359]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2020.01.25-23.37.27:882][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002726s)
+[2020.01.25-23.37.27:942][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.01.25-23.37.27:961][359]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.37.27:994][359]LogInit: FAudioDevice initialized.
+[2020.01.25-23.37.28:017][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.37.28:056][359]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.37.28:059][359]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.37.28
+[2020.01.25-23.37.28:060][359]LogWorld: Bringing up level for play took: 0.001729
+[2020.01.25-23.37.28:075][359]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.37.28:077][359]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.292
+[2020.01.25-23.37.28:078][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.32:466][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.32:467][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.37.32:495][620]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.37.32:533][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.37.32:534][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.32:616][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.01.25-23.37.32:638][621]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.01.25-23.37.33:727][685]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.37.33:765][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.33:766][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.37.33:766][685]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:37:33 PM)
+[2020.01.25-23.37.33:767][685]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.37.33:768][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001218s)
+[2020.01.25-23.37.33:769][685]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.37.33:769][685]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2020.01.25-23.37.33:769][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002499s)
+[2020.01.25-23.37.33:831][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.01.25-23.37.33:846][685]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.37.33:872][685]LogInit: FAudioDevice initialized.
+[2020.01.25-23.37.33:886][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.37.33:924][685]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.37.33:928][685]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.37.33
+[2020.01.25-23.37.33:928][685]LogWorld: Bringing up level for play took: 0.000855
+[2020.01.25-23.37.33:941][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.37.33:944][685]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.158
+[2020.01.25-23.37.33:944][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.38:655][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.38:657][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.37.38:677][768]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.37.38:720][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.37.38:721][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.38:800][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.01.25-23.37.38:814][769]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.01.25-23.37.47:126][205]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.37.47:194][205]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.01.25-23.37.47:765][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.37.47:801][228]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BPAA4900D14CF9369E9AF7C3AF0FEF4C54.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.37.48:601][275]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.25-23.37.48:638][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.37.48:639][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.25-23.37.48:639][275]PIE: New page: PIE session: MainMenu (Jan 25, 2020, 1:37:48 PM)
+[2020.01.25-23.37.48:639][275]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.01.25-23.37.48:640][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000885s)
+[2020.01.25-23.37.48:641][275]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.25-23.37.48:641][275]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2020.01.25-23.37.48:641][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002048s)
+[2020.01.25-23.37.48:702][275]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.01.25-23.37.48:718][275]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.25-23.37.48:746][275]LogInit: FAudioDevice initialized.
+[2020.01.25-23.37.48:762][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.37.48:797][275]LogLoad: Game class is 'GameModeBase'
+[2020.01.25-23.37.48:799][275]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.01.25-18.37.48
+[2020.01.25-23.37.48:800][275]LogWorld: Bringing up level for play took: 0.001416
+[2020.01.25-23.37.48:813][275]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.25-23.37.48:817][275]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 1.031
+[2020.01.25-23.37.48:817][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.38.01:521][365]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 18582
+[2020.01.25-23.38.01:543][365]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.25-23.38.01:544][365]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.25-23.38.06:326][365]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.25-23.38.06:327][365]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.25-23.38.06:328][365]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.25-23.38.06:333][365]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.25-23.38.13:521][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.38.13:522][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.25-23.38.13:543][794]LogSlate: Window 'UE_FightyTanks Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.25-23.38.13:582][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.25-23.38.13:583][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.01.25-23.38.13:664][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.01.25-23.38.13:678][795]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.01.25-23.38.45:878][349]BlueprintLog: New page: Compile MainMenu_BP
+[2020.01.25-23.38.45:944][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.01.25-23.38.46:540][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_BP" FILE="../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset" SILENT=true
+[2020.01.25-23.38.46:561][373]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenu_BP77F7DFEE43287DBDFA3DDCA4E757809A.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/UI/MainMenu_BP.uasset'
+[2020.01.25-23.38.47:101][404]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.25-23.38.48:068][457]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.01.25-23.38.48:363][457]LogSavePackage: Moving '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Saved/MainMenuF9CC6345469D0AB8A037C096F7A21F92.tmp' to '../../../../../../Users/NateH/Documents/Repos/FightyTanks/UE_FightyTanks/Content/Levels/MainMenu.umap'
+[2020.01.25-23.38.49:004][491]LogSlate: Took 0.001615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.25-23.38.52:557][587]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.207 sec). This should never happen. Something is wrong with the timer delegate!
